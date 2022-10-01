@@ -1,0 +1,77 @@
+{
+"description": "This series explores the seemingly infinite number of ways that light interacts with translucent materials and is a meditation on how light alters form. Code used to produce the outputs are stored on the Ethereum blockchain. This work is open-source and CC0. Please use these contracts to create your own artworks.",
+"token": 20,
+"name": "Light Rays #20",
+"image": "https://api.cooperjamieson.com/lightrays/20.png",
+"external_url": "https://www.cooperjamieson.com/lightrays",
+"attributes": [
+{
+"trait_type": "Empty location 0",
+"value": 2.43384
+},
+{
+"trait_type": "Empty location 1",
+"value": 1.11752
+},
+{
+"trait_type": "Empty location 2",
+"value": 1.59906
+},
+{
+"trait_type": "Camera location 0",
+"value": 8.09232
+},
+{
+"trait_type": "Camera location 1",
+"value": -4.80345
+},
+{
+"trait_type": "Camera location 2",
+"value": 2.71452
+},
+{
+"trait_type": "Camera focus distance",
+"value": 10.9544
+},
+{
+"trait_type": "Camera aperture",
+"value": 6.98344
+},
+{
+"trait_type": "Lens length",
+"value": 69.0
+},
+{
+"trait_type": "Sun elevation",
+"value": 2.433840
+},
+{
+"trait_type": "Sun size",
+"value": 0.0294
+},
+{
+"trait_type": "Sun intensity",
+"value": 2.98158
+},
+{
+"trait_type": "Sun rotation",
+"value": 0.64873
+},
+{
+"trait_type": "Altitude",
+"value": 17.55265
+},
+{
+"trait_type": "Air density",
+"value": 3.80016
+},
+{
+"trait_type": "Dust density",
+"value": 4.49401
+},
+{
+"trait_type": "Ozone density",
+"value": 0.62596
+}
+]
+}
